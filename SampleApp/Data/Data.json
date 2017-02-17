@@ -1,0 +1,40 @@
+{
+    "recipeactivity": [{
+                       "type": "recipe",
+                       "user": {
+                       "fname": "Jenifer Cruise",
+                       "profile": "User_1"
+                       },
+                       "recipe": {
+                       "recipename": "Bhorta",
+                       "makingplace": "home",
+                       "recipeimage": "Recipe-1",
+                       "time": "12 min"
+                       }
+                       },
+                       {
+                       "users": [{
+                                 "fname": "User3",
+                                 "profile": "User_3"
+                                 }, {
+                                 "fname": "User4",
+                                 "profile": "User_4"
+                                 }, {
+                                 "fname": "User5",
+                                 "profile": "User_6"
+                                 }],
+                       "type": "user"
+                       },{
+                       "user": {
+                       "fname": "Tom Hardy",
+                       "profile": "User_2"
+                       },
+                       "recipe": {
+                       "recipename": "Muffins",
+                       "makingplace": "office",
+                       "recipeimage": "Recipe_2",
+                       "time": "1 hour"
+                       },
+                       "type": "recipe"
+                       }]
+}
